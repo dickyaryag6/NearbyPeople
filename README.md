@@ -1,8 +1,10 @@
 # NearbyPeople
 
-This script was written in GOLANG, it lets us find nearby people within radius of 50 km with JSON format as input and output
+This script was written in GOLANG, it lets us find nearby people within radius of 50 km with JSON format as input and output.
+Great Circle Distance formula is used to calculate distance between two given coordinates
 
 customers.json is INPUT
+
 answer.json is OUTPUT
 
 This script was inspired by a script in this geeksforgeeks :
